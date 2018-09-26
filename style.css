@@ -1,0 +1,16 @@
+/*setting gradient background*/
+.grad{
+    height: 1500px;
+    background:repeating-linear-gradient(lightyellow 10% ,yellow 15%);
+}
+/*setting different attributes for rounded corners*/
+.round{
+    border-radius: 50%; /*for rounded shape*/
+    border:1px;
+    height:70px;
+    width:140px;
+    padding: 20px;/*internal spacing*/
+    color:white;;
+    background: blue;
+    text-align: center;
+}
